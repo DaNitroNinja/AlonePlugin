@@ -1,0 +1,7 @@
+name: AloneSmpPlugin
+version: '${project.version}'
+main: me.rishipatwardhan.alonesmpplugin.AloneSmpPlugin
+api-version: '1.20'
+prefix: alonesmp
+authors: [Rishi Patwardhan, The Unknown Company]
+description: The Official Plugin For The Unknown Company's AloneSMP
